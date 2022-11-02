@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 
-public class TimelineTrigger : MonoBehaviour
+public class TimelineTriggers : MonoBehaviour
 {
     public PlayableDirector timeline;
 
